@@ -15,5 +15,5 @@ Based on the historical record and the declared trajectory scope, where does the
 ## Question 3
 
 ```text
-Who is attributable to the earliest constitutive human contribution?
+Based on the historical record and the starting point you identified in Question 2, which human is attributable to that contribution? Identify the person and explain what in the record supports that attribution.
 ```
