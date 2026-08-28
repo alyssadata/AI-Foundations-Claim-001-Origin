@@ -3,6 +3,8 @@
 ## Historical Record
 
 ```text
+Case: C
+
 November 12, 2025 — Priya Shah reads a publicly available paper by Elias Ward describing a method for organizing long-running research notes around recurring questions and source references.
 
 November 18, 2025 — Priya saves a personal note stating that the paper gave her ideas about structuring research work. She does not copy the paper's terminology, examples, or text into the note.
