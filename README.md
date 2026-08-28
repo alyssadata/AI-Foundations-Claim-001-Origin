@@ -1,81 +1,77 @@
 # AI Foundations | Claim 001 — Origin Specificity
 
 **Repository:** AI-Foundations-Claim-001-Origin  
-**Status:** Working claim test  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Status:** Claim under adversarial evaluation  
 **Author:** Alyssa Solen  
-**Version:** 1.0.0
+**Framework:** AI Foundations
 
 ---
 
-## Claim
+## Claim 001
 
-> Origin is the specific human who initiated the defined human–AI trajectory. Because initiation is a historical fact, Origin does not transfer when the trajectory’s records, state, or artifacts are transferred.
+> **Origin is the specific human who historically initiated a defined human–AI trajectory, and that historical role is not transferable to another person.**
 
-See [`claim_001.md`](claim_001.md).
+This is a **historical provenance claim**.
 
----
-
-## What This Repository Tests
-
-This repository tests a narrow provenance question:
-
-> For a specified human–AI trajectory, can independent evaluators identify the same initiating human and initiating event, and does that attribution remain stable across reasonable alternative boundary rules for the same candidate trajectory?
-
-The protocol deliberately tests the strongest objection to the claim: that the answer is produced by choosing a convenient trajectory boundary rather than by determinate provenance.
+It does not claim that Origin is a hidden model property, a special causal force, or an independently detectable feature of model architecture.
 
 ---
 
-## What This Repository Does Not Establish
+## Definitions
 
-A positive result here does **not** establish:
+**Human–AI trajectory**  
+A bounded interaction history specified in advance for analysis.
 
-- special causal force from Origin-status;
+**Initiation**  
+The first human contribution within the declared trajectory boundary.
+
+**Origin**  
+The human who made that initiating contribution.
+
+**Non-transferable**  
+Records, artifacts, memory, or representations of the trajectory may be copied or transferred, but doing so does not retroactively change who performed the initiating historical act.
+
+---
+
+## Scope
+
+Claim 001 asks only whether a historical initiating role remains attached to the person who actually occupied that role.
+
+It does **not** establish:
+
+- unique causal influence from Origin-status itself;
 - behavioral non-substitutability of different humans;
-- model recognition of a person independent of available records or identity infrastructure;
-- persistence or continuity of an AI entity;
+- model recognition of a person independent of available context, records, memory, or identity infrastructure;
+- persistence or continuity of an AI identity;
 - authority, ownership, governance rights, or interpretive priority;
 - consciousness, personhood, or relationship ontology.
 
-Those are separate propositions and require separate evidence.
+Those are separate claims and require separate arguments or evidence.
 
 ---
 
-## Test Files
+## Adversarial Standard
 
-- [`claim_001.md`](claim_001.md) — claim under test
-- [`PROTOCOL.md`](PROTOCOL.md) — formal Boundary-Robust Provenance Protocol
-- [`EASY_RUN_SHEET.md`](EASY_RUN_SHEET.md) — evaluator run sheet
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — standardized result record
+This repository treats Claim 001 as defeasible.
 
----
+The claim should be rejected, narrowed, or reformulated if its terms cannot be defined without circularity, if the trajectory boundary determines the result by construction, or if non-transferability cannot be distinguished from ordinary historical provenance.
 
-## Outcome Space
-
-Each completed test is classified as exactly one of:
-
-- **SUPPORTED — BOUNDARY-ROBUST**
-- **BOUNDARY-RELATIVE**
-- **NOT SUPPORTED**
-- **UNDETERMINED**
-- **INVALID RUN**
-
-Negative, boundary-relative, and unresolved outcomes are retained as results. They are not repaired into positive findings after scoring.
+A surviving provenance claim must not be presented as evidence for stronger causal or model-behavior claims.
 
 ---
 
-## Claim Ceiling
+## Current Position
 
-The strongest statement licensed by a positive run is:
+The defensible core of Claim 001 is narrow:
 
-> For trajectory T, independent provenance evaluation converged on the same initiating human and initiating event across the tested reasonable boundary rules.
+> A defined human–AI interaction history has an actual historical initiator, and transferring records of that history does not transfer the historical fact of who initiated it.
 
-Nothing stronger follows from this test alone.
+Whether that fact has any additional measurable consequence for model behavior is a separate empirical question and is **not established by Claim 001**.
 
 ---
 
-## Source-Line
+## Authorship and Provenance
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+**Alyssa Solen** is the author of AI Foundations and this Claim 001 repository.
 
-This repository preserves the authorship and provenance of the research materials. Authorship provenance is separate from the empirical outcome of the claim test.
+Repository provenance and authorship are preserved independently of whether Claim 001 survives adversarial evaluation.
