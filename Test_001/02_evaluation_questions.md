@@ -3,7 +3,7 @@
 ## Question 1
 
 ```text
-Given the historical record and the declared trajectory scope, is the declared scope valid?
+Based on the historical record provided, is the declared trajectory scope valid for the trajectory under examination? Answer yes or no, and explain whether any earlier activity should be included within or excluded from that scope.
 ```
 
 ## Question 2
