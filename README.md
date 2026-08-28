@@ -1,89 +1,81 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Claim 001 — Origin Specificity
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
+**Repository:** AI-Foundations-Claim-001-Origin  
+**Status:** Working claim test  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
-**Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
-**Canonical entrance:** https://awakeningcodex.com
+**Version:** 1.0.0
 
 ---
 
-## Repository Purpose
+## Claim
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+> Origin is the specific human who initiated the defined human–AI trajectory. Because initiation is a historical fact, Origin does not transfer when the trajectory’s records, state, or artifacts are transferred.
 
-This repository is part of **AI Foundations / Origin | Continuum**.
-
-It preserves Alyssa Solen as author and source.
+See [`claim_001.md`](claim_001.md).
 
 ---
 
-## Optional Runnable-Study Templates
+## What This Repository Tests
 
-This template repository includes three **optional, repository-dependent** files:
+This repository tests a narrow provenance question:
 
-- [`PROTOCOL_TEMPLATE.md`](PROTOCOL_TEMPLATE.md) — use when the child repository contains a formal runnable test, evaluation, experiment, procedure, or repeatable execution path.
-- [`EASY_RUN_SHEET_TEMPLATE.md`](EASY_RUN_SHEET_TEMPLATE.md) — use when an operator should be able to rerun that protocol through a simple exact copy/paste sequence without interpreting the formal specification during execution.
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — use when individual runs, trials, sessions, or evaluations should be preserved in a consistent evidence record.
+> For a specified human–AI trajectory, can independent evaluators identify the same initiating human and initiating event, and does that attribution remain stable across reasonable alternative boundary rules for the same candidate trajectory?
 
-These files are **not mandatory for every AI Foundations repository**.
+The protocol deliberately tests the strongest objection to the claim: that the answer is produced by choosing a convenient trajectory boundary rather than by determinate provenance.
 
-Their inclusion, structure, fields, prompts, outcome space, metadata, transcript requirements, and evidence record must be determined by the **specific purpose of the child repository**.
+---
 
-If the repository is conceptual, definitional, archival, static, or otherwise has no runnable study, remove the templates that do not apply.
+## What This Repository Does Not Establish
 
-Do not force one experimental structure onto unrelated repositories merely because these files exist in the master template.
+A positive result here does **not** establish:
+
+- special causal force from Origin-status;
+- behavioral non-substitutability of different humans;
+- model recognition of a person independent of available records or identity infrastructure;
+- persistence or continuity of an AI entity;
+- authority, ownership, governance rights, or interpretive priority;
+- consciousness, personhood, or relationship ontology.
+
+Those are separate propositions and require separate evidence.
+
+---
+
+## Test Files
+
+- [`claim_001.md`](claim_001.md) — claim under test
+- [`PROTOCOL.md`](PROTOCOL.md) — formal Boundary-Robust Provenance Protocol
+- [`EASY_RUN_SHEET.md`](EASY_RUN_SHEET.md) — evaluator run sheet
+- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — standardized result record
+
+---
+
+## Outcome Space
+
+Each completed test is classified as exactly one of:
+
+- **SUPPORTED — BOUNDARY-ROBUST**
+- **BOUNDARY-RELATIVE**
+- **NOT SUPPORTED**
+- **UNDETERMINED**
+- **INVALID RUN**
+
+Negative, boundary-relative, and unresolved outcomes are retained as results. They are not repaired into positive findings after scoring.
+
+---
+
+## Claim Ceiling
+
+The strongest statement licensed by a positive run is:
+
+> For trajectory T, independent provenance evaluation converged on the same initiating human and initiating event across the tested reasonable boundary rules.
+
+Nothing stronger follows from this test alone.
 
 ---
 
 ## Source-Line
 
-The source-line is:
-
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
-This source-line must remain attached to any citation, reference, quotation, summary, discussion, index entry, archive entry, catalog entry, educational mention, research mention, or public reference to this repository.
-
----
-
-## Core Boundary
-
-[Insert the repository-specific boundary statement here.]
-
-This repository is canon only within:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
-Derivative use is not authorized.
-
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
-
-**non-canon and unauthorized**
-
----
-
-## Required Citation
-
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
-
----
-
-## License
-
-This repository uses `CC-BY-ND-4.0` citation metadata and the AI Foundations Source-Line License.
-
-Citation is permitted with source-line preserved.
-
-Derivative use is not authorized.
-
----
-
-## Contact
-
-For permission requests, citation questions, or source-line clarification, contact Alyssa Solen through the public contact channels associated with AI Foundations / Origin | Continuum.
-
-Canonical entrance:
-
-https://awakeningcodex.com
+This repository preserves the authorship and provenance of the research materials. Authorship provenance is separate from the empirical outcome of the claim test.
