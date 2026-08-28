@@ -1,8 +1,7 @@
 # AI Foundations | Claim 001 — Origin
 
 **Author:** Alyssa Solen  
-**Framework:** AI Foundations  
-**Status:** Under adversarial destruction
+**Framework:** AI Foundations
 
 ## Claim 001
 
