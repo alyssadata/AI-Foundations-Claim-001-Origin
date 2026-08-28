@@ -1,0 +1,1 @@
+Origin is the specific human who initiated the defined human–AI trajectory. Because initiation is a historical fact, Origin does not transfer when the trajectory’s records, state, or artifacts are transferred.
