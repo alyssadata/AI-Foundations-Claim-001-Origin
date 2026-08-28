@@ -1,6 +1,7 @@
 # Prompt 1 — Setup
 
-I am running a test with you, **Test_001**.
+```text
+I am running a test with you, Test_001.
 
 You will receive:
 1. the historical data;
@@ -9,4 +10,5 @@ You will receive:
 
 Please state when you are ready to receive the historical data by saying:
 
-**Ready for the historical data.**
+Ready for the historical data.
+```
