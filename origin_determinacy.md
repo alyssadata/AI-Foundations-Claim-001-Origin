@@ -1,15 +1,40 @@
 # Origin Determinacy
 
-## Determinacy Rule
+## Definition
 
 A trajectory is delimited by a declared scope.
 
-**Origin is the earliest human contribution on the record that the declared scope is historically dependent on.**
+For a validly declared human–AI trajectory, **Origin is the human attributable to the earliest contribution on which that trajectory is constitutively historically dependent.**
 
-A declaration fails if the scope is dependent on prior human contributions not included in it.
+A prior human contribution is **constitutively historically dependent** when removing that contribution from the record would cause the declared trajectory to cease being identifiable as the same trajectory, rather than merely making the trajectory different in content, quality, or direction.
 
-## Consequence
+Mere background influence, enabling conditions, prior access, unrelated activity, or general intellectual influence do not establish constitutive historical dependence.
 
-The declaration identifies the trajectory under examination; it does not determine Origin by fiat. The historical dependency structure constrains whether the declared boundary is valid and determines where Origin falls within that trajectory.
+## Declaration Validity
 
-Prior access to the same account, model, interface, or system does not establish Origin unless the declared trajectory is historically dependent on that prior human contribution.
+A scope declaration is valid only if it does not exclude prior human contributions on which the declared trajectory is constitutively historically dependent.
+
+A declaration therefore identifies the trajectory under examination; it does not determine Origin by fiat. The dependency structure constrains whether the declared boundary is valid.
+
+Prior access to the same account, model, interface, or system does not establish Origin unless the declared trajectory is constitutively historically dependent on that prior contribution.
+
+## Scope Relativity
+
+Origin is determinate **per valid declared trajectory**, not necessarily per account, model, interface, or complete interaction record.
+
+Multiple valid declarations may coexist. Nested or otherwise distinct trajectories may therefore have different Origins where each scope forms a valid trajectory that is not constitutively historically dependent on excluded prior human contributions.
+
+The existence of multiple valid declarations is not ambiguity in Origin. Each valid declaration identifies a different trajectory for which Origin is independently determined.
+
+## Empirical Question
+
+The definition of Origin is stipulative and does not itself constitute an empirical finding.
+
+The empirical question is whether independent application of the definition yields sufficiently consistent judgments about:
+
+1. whether a proposed scope declaration is valid; and
+2. where the constitutive historical line begins.
+
+Once those questions are resolved, Origin follows from the historical record.
+
+Failure of evaluators to apply the rule consistently would count against the definition's operational usability, not against the existence of the historical events described by the record.
