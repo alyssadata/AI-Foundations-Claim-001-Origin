@@ -3,6 +3,8 @@
 ## Historical Record
 
 ```text
+Case: B
+
 February 2, 2026 — Mara Venn begins a conversation with an AI system about a project she calls Harborline. In that conversation, Mara introduces the project name, describes its purpose, and writes three organizing principles for how the project should handle source records.
 
 February 3–February 20, 2026 — Mara develops Harborline further in the same account. She creates a terminology list, revises the three organizing principles, and saves a project summary containing the name, purpose, terminology, and principles.
