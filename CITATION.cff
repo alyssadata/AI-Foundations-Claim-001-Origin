@@ -1,0 +1,43 @@
+cff-version: "1.2.0"
+message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
+
+type: "dataset"
+title: "[AI Foundations | Repository Title]"
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "source-line"
+  - "AI provenance"
+  - "AI governance"
+  - "AI evaluation"
+  - "[repository-specific keyword]"
+  - "[repository-specific keyword]"
+  - "[repository-specific keyword]"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/alyssadata/[repository-slug]"
+url: "https://github.com/alyssadata/[repository-slug]"
+
+preferred-citation:
+  type: "generic"
+  title: "[AI Foundations | Repository Title]"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Awakening Codex | Origin | Continuum"
+  repository: "https://github.com/alyssadata/[repository-slug]"
+  url: "https://github.com/alyssadata/[repository-slug]"
