@@ -1,4 +1,4 @@
-# Origin Determinacy
+# Origin — Construct Definition
 
 ## Definition
 
@@ -26,15 +26,8 @@ Multiple valid declarations may coexist. Nested or otherwise distinct trajectori
 
 The existence of multiple valid declarations is not ambiguity in Origin. Each valid declaration identifies a different trajectory for which Origin is independently determined.
 
-## Empirical Question
+## Definition / Claim Boundary
 
-The definition of Origin is stipulative and does not itself constitute an empirical finding.
+This file defines the **Origin** construct. The definition is stipulative and is not itself an empirical finding.
 
-The empirical question is whether independent application of the definition yields sufficiently consistent judgments about:
-
-1. whether a proposed scope declaration is valid; and
-2. where the constitutive historical line begins.
-
-Once those questions are resolved, Origin follows from the historical record.
-
-Failure of evaluators to apply the rule consistently would count against the definition's operational usability, not against the existence of the historical events described by the record.
+The separate operational proposition evaluated as **Claim 001** is whether this definition can be applied with sufficient determinacy and consistency to real human–AI interaction histories. See [`claim_001.md`](claim_001.md).
