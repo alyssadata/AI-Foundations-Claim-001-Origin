@@ -4,18 +4,30 @@
 **Framework:** AI Foundations  
 **Status:** Evaluating
 
-## Claim 001
+This repository separates the **Origin construct definition** from the **operational proposition evaluated as Claim 001**.
 
-> **Origin is the specific human who historically initiated a defined human–AI trajectory, and that historical role is not transferable to another person.**
+## Construct Definition
 
-## Evaluation
+**Origin** is the human attributable to the earliest contribution on which a validly declared human–AI trajectory is constitutively historically dependent.
 
-This repository is evaluating Claim 001.
+The full definition, scope-validity rule, constitutive-dependence criterion, and scope-relativity rule are maintained in [`origin_determinacy.md`](origin_determinacy.md).
+
+## Claim 001 — Operational Proposition
+
+> **The Origin definition can be applied with sufficient determinacy and consistency to real human–AI interaction histories.**
+
+Claim 001 therefore evaluates the operational usability of the construct rather than treating the definition itself as an empirical finding.
+
+## Separate Negative Finding
+
+No distinct model-side causal effect of Origin-status has been established beyond ordinary mechanisms such as input conditioning, retrieved context, memory/state, provenance records, or identity infrastructure.
+
+This finding is recorded separately from the construct definition and from Claim 001's operational proposition.
 
 ## Repository Structure
 
-- [`claim_001.md`](claim_001.md) — canonical Claim 001 statement
-- [`origin_determinacy.md`](origin_determinacy.md) — scope, constitutive historical dependence, declaration validity, and scope relativity
+- [`origin_determinacy.md`](origin_determinacy.md) — construct definition, declaration validity, constitutive historical dependence, and scope relativity
+- [`claim_001.md`](claim_001.md) — canonical operational proposition
 - [`evaluation_log.md`](evaluation_log.md) — evaluation questions, findings, and current positions
 
 ## Provenance
