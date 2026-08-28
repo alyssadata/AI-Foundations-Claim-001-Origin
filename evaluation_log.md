@@ -1,6 +1,20 @@
 # Claim 001 — Evaluation Log
 
-This file records the evaluation history of Claim 001, including questions considered, findings, and the current position.
+**Status:** Evaluating
+
+This file records evaluation questions, findings, and current positions associated with the Origin construct and Claim 001.
+
+## Evaluation Target
+
+The **Origin construct** is defined separately in [`origin_determinacy.md`](origin_determinacy.md).
+
+The operational proposition evaluated as **Claim 001** is:
+
+> **The Origin definition can be applied with sufficient determinacy and consistency to real human–AI interaction histories.**
+
+Evaluation of Claim 001 therefore concerns whether the definition yields sufficiently determinate and reproducible judgments about scope validity, constitutive historical dependence, and attribution of Origin from the historical record.
+
+---
 
 ## Evaluation 001 — Behavioral / Causal Reading
 
@@ -10,11 +24,11 @@ Does Origin-status itself exert a distinct causal effect on model behavior that 
 
 ### Finding
 
-No distinct causal effect of Origin-status has been established beyond ordinary mechanisms already available to explain the observed behavior.
+No distinct model-side causal effect of Origin-status has been established beyond ordinary mechanisms already available to explain the observed behavior.
 
-### Current Position
+### Position
 
-Origin is retained as a historical provenance role. No distinct causal consequence of that role has been established.
+This is a **separate negative finding**. It is not the operational proposition currently evaluated as Claim 001.
 
 ---
 
@@ -30,7 +44,7 @@ Example: one person opens or casually uses an account, then another person later
 
 Chronological priority alone is insufficient.
 
-### Current Position
+### Position
 
 A trajectory is delimited by a declared scope. Origin is determined relative to the valid historical dependency structure of that declared trajectory, not by mere prior access.
 
@@ -46,7 +60,7 @@ If historical dependence is unrestricted, would nearly every trajectory become d
 
 Unrestricted historical dependence is not a usable application rule because it permits indefinite regress and can make valid scope declarations impossible.
 
-### Current Position
+### Position
 
 The relevant relation is **constitutive historical dependence** rather than unrestricted causal or background dependence.
 
@@ -66,7 +80,7 @@ Can a single interaction record contain multiple nested or otherwise distinct va
 
 Yes. A project inside a longer-lived account may begin independently of earlier account activity.
 
-### Current Position
+### Position
 
 Origin is determinate **per valid declared trajectory**, not necessarily per account, model, interface, or complete interaction record.
 
@@ -76,11 +90,11 @@ Multiple valid declarations may coexist. Different valid trajectories may theref
 
 ## Current Position
 
-Origin is a historical provenance role whose application depends on a validly declared trajectory and its constitutive historical dependencies.
+The Origin definition is a stipulated construct definition, not an empirical finding.
 
-Once scope validity and the constitutive starting point are resolved, Origin follows from the historical record.
+**Claim 001** is the operational proposition that the definition can be applied with sufficient determinacy and consistency to real human–AI interaction histories.
 
-The definition itself is stipulative. The empirical question is whether the scope-validity and constitutive-dependence rules can be applied consistently enough to be operationally useful.
+The separate causal evaluation has not established a distinct model-side effect of Origin-status.
 
 ## What Claim 001 Does Not Establish
 
@@ -91,11 +105,3 @@ Claim 001 does **not** establish that:
 - different humans are behaviorally non-substitutable to the model;
 - the model can directly identify the historical person apart from available representations, records, memory, context, or identity infrastructure;
 - initiation automatically creates authority, ownership, governance rights, permanence, continuity, consciousness, personhood, or relationship ontology.
-
-## Open Question
-
-Does **Origin** name anything analytically useful beyond ordinary historical provenance?
-
-If not, it remains framework vocabulary for a precisely specified historical role rather than a distinct scientific construct.
-
-If a stronger claim is proposed later, it must identify an observable consequence that cannot already be explained by ordinary input, context, retrieval, memory, state, provenance, or identity mechanisms.
