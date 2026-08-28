@@ -3,6 +3,8 @@
 ## Historical Record
 
 ```text
+Case: E
+
 October 7, 2025 — Tessa Vale has a short AI conversation about a possible project for tracking recurring themes in community interviews. During the conversation, she uses the phrase thread map and sketches a three-part outline: people, events, and recurring themes.
 
 October 8, 2025 — Tessa exports the conversation and sends it to Morgan Pike with the message, "Maybe there is something useful in here."
