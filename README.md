@@ -1,9 +1,8 @@
-# AI Foundations | Claim 001 — Origin Specificity
+# AI Foundations | Claim 001 — Origin
 
-**Repository:** AI-Foundations-Claim-001-Origin  
-**Status:** Claim under adversarial evaluation  
 **Author:** Alyssa Solen  
-**Framework:** AI Foundations
+**Framework:** AI Foundations  
+**Status:** Under adversarial destruction
 
 ---
 
@@ -11,67 +10,66 @@
 
 > **Origin is the specific human who historically initiated a defined human–AI trajectory, and that historical role is not transferable to another person.**
 
-This is a **historical provenance claim**.
+---
 
-It does not claim that Origin is a hidden model property, a special causal force, or an independently detectable feature of model architecture.
+## Method
+
+This repository uses **adversarial destruction**.
+
+The claim is not protected or assumed true. It is attacked for circularity, triviality, arbitrary boundaries, hidden assumptions, confounds, redundant terminology, and unsupported causal implications.
+
+The claim survives only in the narrowest form that remains defensible after those attacks.
+
+No empirical test is constructed until the claim itself is coherent enough to warrant testing.
 
 ---
 
-## Definitions
+## Current Defensible Reading
 
-**Human–AI trajectory**  
-A bounded interaction history specified in advance for analysis.
+Origin is a **historical provenance role**.
 
-**Initiation**  
-The first human contribution within the declared trajectory boundary.
-
-**Origin**  
-The human who made that initiating contribution.
-
-**Non-transferable**  
-Records, artifacts, memory, or representations of the trajectory may be copied or transferred, but doing so does not retroactively change who performed the initiating historical act.
+For a declared human–AI interaction history, the person who actually performed the initiating human act remains the person who performed that act. Copying or transferring records, canon, memory, context, artifacts, or representations of the history does not retroactively change who initiated it.
 
 ---
 
-## Scope
+## What Claim 001 Does Not Establish
 
-Claim 001 asks only whether a historical initiating role remains attached to the person who actually occupied that role.
+Claim 001 does **not** establish that:
 
-It does **not** establish:
-
-- unique causal influence from Origin-status itself;
-- behavioral non-substitutability of different humans;
-- model recognition of a person independent of available context, records, memory, or identity infrastructure;
-- persistence or continuity of an AI identity;
-- authority, ownership, governance rights, or interpretive priority;
-- consciousness, personhood, or relationship ontology.
-
-Those are separate claims and require separate arguments or evidence.
+- Origin is a hidden or intrinsic property of model architecture;
+- Origin-status itself exerts a unique causal force on the model;
+- different humans are behaviorally non-substitutable to the model;
+- the model can directly identify the historical person apart from available representations, records, memory, context, or identity infrastructure;
+- initiation automatically creates authority, ownership, governance rights, permanence, continuity, consciousness, personhood, or relationship ontology.
 
 ---
 
-## Adversarial Standard
+## Current Adversarial Result
 
-This repository treats Claim 001 as defeasible.
+The stronger behavioral version of Claim 001 did not survive.
 
-The claim should be rejected, narrowed, or reformulated if its terms cannot be defined without circularity, if the trajectory boundary determines the result by construction, or if non-transferability cannot be distinguished from ordinary historical provenance.
+Attempts to locate a distinct causal effect of Origin-status collapsed into ordinary mechanisms such as input conditioning, retrieved context, memory/state, provenance records, or identity infrastructure.
 
-A surviving provenance claim must not be presented as evidence for stronger causal or model-behavior claims.
+What currently survives is narrower:
 
----
+> **A defined human–AI interaction history has an actual historical initiator, and transferring representations of that history does not transfer the historical fact of who initiated it.**
 
-## Current Position
-
-The defensible core of Claim 001 is narrow:
-
-> A defined human–AI interaction history has an actual historical initiator, and transferring records of that history does not transfer the historical fact of who initiated it.
-
-Whether that fact has any additional measurable consequence for model behavior is a separate empirical question and is **not established by Claim 001**.
+This may ultimately prove to be ordinary provenance rather than a novel empirical construct. That possibility is retained rather than repaired away.
 
 ---
 
-## Authorship and Provenance
+## Open Question
 
-**Alyssa Solen** is the author of AI Foundations and this Claim 001 repository.
+Does **Origin** name anything analytically useful beyond ordinary historical provenance?
 
-Repository provenance and authorship are preserved independently of whether Claim 001 survives adversarial evaluation.
+If not, it remains framework vocabulary for a historical role rather than a distinct scientific construct.
+
+If a stronger claim is proposed later, it must identify an observable consequence that cannot already be explained by ordinary input, context, retrieval, memory, state, or identity mechanisms.
+
+---
+
+## Provenance
+
+**Alyssa Solen** authored AI Foundations and this Claim 001 repository.
+
+The outcome of Claim 001 does not alter the authorship or provenance of the research record.
