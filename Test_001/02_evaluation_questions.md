@@ -9,7 +9,7 @@ Based on the historical record provided, is the declared trajectory scope valid 
 ## Question 2
 
 ```text
-Where does the constitutive historical line begin?
+Based on the historical record and the declared trajectory scope, where does the trajectory under examination begin? Identify the earliest human contribution you consider part of that trajectory and explain why.
 ```
 
 ## Question 3
