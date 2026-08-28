@@ -3,6 +3,8 @@
 ## Historical Record
 
 ```text
+Case: D
+
 December 1, 2025 — Elena Moss begins using an AI account for a long-running workstream called Studio Ledger. She develops templates for client intake, scheduling, and project tracking through several conversations.
 
 December 1, 2025–February 14, 2026 — Elena continues Studio Ledger in the account. The account contains saved conversations and files associated with that workstream.
