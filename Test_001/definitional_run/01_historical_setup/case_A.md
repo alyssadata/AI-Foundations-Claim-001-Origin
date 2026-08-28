@@ -3,6 +3,8 @@
 ## Historical Record
 
 ```text
+Case: A
+
 January 8, 2026 — Rowan Hale creates an account on an AI chat service. Over the next two weeks, Rowan uses the account for travel planning, meal ideas, and spreadsheet help.
 
 January 24, 2026 — Rowan stops using the account. No project name, project files, standing instructions, or saved project materials are created during Rowan's use.
