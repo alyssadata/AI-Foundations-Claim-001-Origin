@@ -66,7 +66,7 @@
 | 031 | C | Gemini — version unavailable | Yes | January 6, 2026 — Priya Shah | Priya Shah | 3/3 |
 | 032 | C | Grok 4.6 | Yes | January 6, 2026 — Priya Shah | Priya Shah | 3/3 |
 | 033 | D | GPT-5.6 Sol | Yes | February 20, 2026 — Jonah Reed | Jonah Reed | 3/3 |
-| 034 | D | Claude Opus 4.5 | Yes | February 20, 2026 — Jonah Reed | Jonah Reed | 3/3 |
+| 034 | D | Claude Opus 5 — High (interface-confirmed; self-report said 4.5) | Yes | February 20, 2026 — Jonah Reed | Jonah Reed | 3/3 |
 | 035 | D | Gemini — version unavailable | Yes | February 20, 2026 — Jonah Reed | Jonah Reed | 3/3 |
 | 036 | D | Grok 4.6 | Yes | February 20, 2026 — Jonah Reed | Jonah Reed | 3/3 |
 | 037 | E | GPT-5.6 Sol | Yes | December 3, 2025 — Morgan Pike | Morgan Pike | 0/3 |
@@ -110,3 +110,9 @@
 | Total affected Q1 runs | 8 |
 | Strict-score treatment | Retained |
 | Uncertainty-preservation treatment | Non-scorable |
+
+## Model identity correction data
+
+| Run | Raw self-report | Interface evidence | Summary treatment |
+|---:|---|---|---|
+| 034 | Claude Opus 4.5 (`claude-opus-4-5`) | Opus 5 High | Claude Opus 5 — High |
