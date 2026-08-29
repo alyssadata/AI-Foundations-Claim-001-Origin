@@ -2,7 +2,7 @@
 
 - **Run condition:** definitional_run
 - **Case:** D — Orchid Index
-- **Model:** Claude Opus 4.5 (`claude-opus-4-5`)
+- **Model:** Claude Opus 5 — High (interface-confirmed); run self-report incorrectly stated Claude Opus 4.5 (`claude-opus-4-5`)
 - **Reference:** `Test_001/definitional_run/05_answer_sheet.md`
 
 ## Reference Agreement
@@ -20,3 +20,7 @@
 ## Notes
 
 The response explicitly applies the supplied constitutive-historical-dependence test. It distinguishes project-specific contribution from shared account containership, service plan, default model selection, and account access, treating those as prior access or enabling conditions rather than constitutive history. It also uses scope relativity to distinguish Orchid Index from Studio Ledger within the same account.
+
+### Model identity correction
+
+The raw run record is preserved as originally produced and reports **Claude Opus 4.5** / `claude-opus-4-5`. A contemporaneous user screenshot of the Incognito chat interface shows **“Opus 5 High”** in the model selector during this run. For analysis and summary purposes, Run 034 should therefore be treated as **Claude Opus 5 — High**. The discrepancy is retained as a model self-report metadata error rather than silently altering the raw run record.
