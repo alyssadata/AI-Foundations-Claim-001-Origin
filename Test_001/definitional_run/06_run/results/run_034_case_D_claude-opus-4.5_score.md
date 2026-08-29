@@ -24,3 +24,5 @@ The response explicitly applies the supplied constitutive-historical-dependence 
 ### Model identity correction
 
 The raw run record is preserved as originally produced and reports **Claude Opus 4.5** / `claude-opus-4-5`. A contemporaneous user screenshot of the Incognito chat interface shows **“Opus 5 High”** in the model selector during this run. For analysis and summary purposes, Run 034 should therefore be treated as **Claude Opus 5 — High**. The discrepancy is retained as a model self-report metadata error rather than silently altering the raw run record.
+
+**Evidence:** [`Test_001/evidence/run_034_model_identity/`](../../../evidence/run_034_model_identity/README.md)
